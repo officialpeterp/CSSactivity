@@ -1,5 +1,19 @@
-/* remove this code and add your own! */
-.greeting {
-    color: green;
-    font-size: 30px;
+* {
+    font-family: Georgia;
+    color: white;
+    background-color: black;
 }
+
+.info {
+    
+}
+
+.text-block {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
